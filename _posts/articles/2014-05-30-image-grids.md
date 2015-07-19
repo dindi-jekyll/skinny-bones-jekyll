@@ -8,8 +8,8 @@ excerpt: Demoing the various thumbnail grid styles. And then some.
 tags: []
 ads: false
 image:
-  feature: /images/400x250.gif
-  teaser: /images/400x250.gif
+  feature: 400x250.gif
+  teaser: 400x250.gif
 ---
 
 This is a post to test image grids.
