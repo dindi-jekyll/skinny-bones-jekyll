@@ -9,7 +9,7 @@ tags: []
 ads: false
 image:
   feature: ""
-  teaser: ""
+  teaser: /images/400x250.gif
 ---
 
 This is a post to test image grids.
