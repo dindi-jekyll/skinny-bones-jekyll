@@ -8,7 +8,7 @@ excerpt: Demoing the various thumbnail grid styles. And then some.
 tags: []
 ads: false
 image:
-  feature: ""
+  feature: /images/400x250.gif
   teaser: /images/400x250.gif
 ---
 
