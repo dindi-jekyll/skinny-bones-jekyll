@@ -1,32 +1,66 @@
 ---
 layout: article
-title: Image Grids
-date: 2014-05-30T15:51:00.000Z
-modified: ""
+title: "Image Grids"
+date: 2014-05-30T11:51:25-04:00
+modified:
 categories: articles
-excerpt: Demoing the various thumbnail grid styles. And then some.
+excerpt: "Demoing the various thumbnail grid styles."
 tags: []
-ads: false
+ads: true
 image:
-  feature: 
-  teaser: branch-400x250.jpg
+  feature:
+  teaser:
 ---
 
 This is a post to test image grids.
 
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
-*   [![](http://placehold.it/150x150.gif)](#)
+<ul class="th-grid">
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+  </li>
+</ul>
